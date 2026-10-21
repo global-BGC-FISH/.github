@@ -1,8 +1,12 @@
 # Description and guideline on the global-BGC-FISH organization
-![VOICES logo](../VOICES_logo.png)
+![VOICES logo](https://github.com/global-BGC-FISH/.github/blob/main/VOICES_logo.png)
 
 ## What is the global-BGC-FISH organization?
-This organization hosts repositories and software tools developed in support of the global-BGC-FISH initiative. It brings together projects focused on marine biogeochemistry, ecosystem dynamics, fisheries research, and data-driven analyses relevant to global ocean processes. The repositories in this organization aim to provide reproducible workflows, model outputs, and analysis tools for scientific investigation and collaborative development.
+This GitHub organization hosts the modelling configurations, software tools, and computational workflows developed within VOICES (Variability and uncertainty Of Integrated Copernicus Ecosystem Simulations), a project supporting the development of multi-model ensemble capabilities for global marine biogeochemistry and marine ecosystem simulations within the Copernicus Marine Service.
+
+The project builds on a common NEMO–FABM–FEISTY framework, integrating multiple biogeochemical models (PISCES, BFM, and ERSEM) with FEISTY marine fish community model. Coordinated hindcast, historical, and future climate simulations are used to evaluate model performance, quantify structural uncertainty, and assess the robustness of projected changes in marine biogeochemistry, primary production, zooplankton, and fish biomass.
+
+The repositories provide open-source modelling tools, reproducible simulation and validation workflows, and ensemble analysis pipelines, supporting model intercomparison, uncertainty quantification, and collaborative development. Particular emphasis is placed on interoperability with Copernicus Marine and the European Digital Twin Ocean (EDITO), facilitating the transfer, processing, and exploitation of multi-model ensemble products.
 
 ## Guideline for a repository in the organization
 
